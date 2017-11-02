@@ -25,4 +25,4 @@ Some key codes to get your rolling
 * `F` - fullscreen mode
 * `B` - black out screen
 * `S` - speaker view
-* `?` - show all keyboard shortcuts
+* `?` - show all keyboard shortcuts# Jakarta-Platform-Features
